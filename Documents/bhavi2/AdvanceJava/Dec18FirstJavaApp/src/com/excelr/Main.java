@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("welcome");
 		
 		Car c1=new Car();
+		
+		System.out.println("bye");
 
 	}
 
