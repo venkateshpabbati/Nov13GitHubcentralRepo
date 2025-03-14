@@ -35,6 +35,7 @@ public class Main {
         Motor m2 = context.getBean("motor1", Motor.class);
         System.out.println(m2.hashCode());
         
+        System.out.println("bye bue");
        
     }
 }
